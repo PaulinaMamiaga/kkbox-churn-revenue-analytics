@@ -12,3 +12,5 @@ SELECT 'user_logs_raw', COUNT(*) FROM `kkbox_raw.user_logs_raw`;
 
 -- 2. Sample Check (Ensuring data isn't corrupted)
 SELECT * FROM `kkbox_raw.members_raw` LIMIT 5;
+
+
