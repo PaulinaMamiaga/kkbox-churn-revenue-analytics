@@ -1,0 +1,4 @@
+-- Check
+-- LAYER: RAW
+-- OBJECTIVE: Verify row counts in raw tables 
+-- to ensure successful data ingestion from GCS to BigQuery.
