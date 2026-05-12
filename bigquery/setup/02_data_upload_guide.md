@@ -31,3 +31,4 @@ The following process was used to move datasets from the local development envir
 ## 4. Security & Compliance
 - **Access Control:** IAM permissions are restricted to the project owner.
 - **Data Residency:** All data remains within the German jurisdiction (`europe-west3`) to align with best practices for regional data handling.
+
