@@ -23,6 +23,7 @@ bq mk --location=europe-west3 kkbox_business_validation
 bq mk --location=europe-west3 kkbox_clean
 bq mk --location=europe-west3 kkbox_analytics
 ```
+
 -------------
 
 ## 3. Data Layering Strategy (Medallion Architecture)
