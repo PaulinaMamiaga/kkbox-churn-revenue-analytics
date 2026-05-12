@@ -32,5 +32,3 @@ To ensure data integrity and traceability, the warehouse is organized into logic
 - **`kkbox_business_validation`**: A dedicated environment for initial data profiling and business sanity checks was added between bronze and silver.
 - **`kkbox_clean`**: Silver layer for standardized, deduplicated, and type-casted data.
 - **`kkbox_analytics`**: Gold layer for final business KPIs and dashboard-ready tables.
-
-------
