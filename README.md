@@ -77,7 +77,8 @@ kkbox-churn-revenue-analytics/
 │   │   ├── 01_check_row_counts.sql
 │   │   ├── 02_check_missing_values.sql
 │   │   ├── 03_check_duplicates.sql
-│   │   └── 04_validate_date_ranges.sql
+│   │   ├── 04_inspect_outliers.sql
+│   │   └── 05_validate_date_ranges.sql
 │   │
 │   ├── business_validation/
 │   │   ├── 01_churn_rate_analysis.sql
