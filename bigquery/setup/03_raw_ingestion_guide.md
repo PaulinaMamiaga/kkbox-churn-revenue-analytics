@@ -34,3 +34,5 @@ bq load --autodetect --source_format=CSV kkbox_raw.user_logs_raw gs://kkbox-anal
 - **Source URI:** Google Cloud Storage Buckets (`gs://...`)
 - **Write Disposition:** `WRITE_TRUNCATE` (Ensures a clean load if re-run)
 - **Schema Strategy:** Autodetect enabled for initial exploration.
+
+
